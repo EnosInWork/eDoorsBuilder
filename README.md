@@ -5,7 +5,7 @@
 [Clique ici pour rejoindre le Discord](https://discord.gg/5dev)
 -
 
-## ↓ Reworked, ESX version here ↓
+## ↓ Reworked, ESX (Original) version here ↓
 
 [guille_doorlock](https://forum.cfx.re/t/release-esx-qbcore-guille-doorlock/4765817)
 
